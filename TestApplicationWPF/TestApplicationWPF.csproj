@@ -76,26 +76,26 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="..\TestApplication.Shared\Controls\BooleanToVisibilityConverter.cs">
-      <Link>Controls\BooleanToVisibilityConverter.cs</Link>
+    <Compile Include="Controls\BooleanToVisibilityConverter.cs">
+      
     </Compile>
-    <Compile Include="..\TestApplication.Shared\Controls\PortableHyperlinkButton.cs">
-      <Link>Controls\PortableHyperlinkButton.cs</Link>
+    <Compile Include="Controls\PortableHyperlinkButton.cs">
+      
     </Compile>
-    <Compile Include="..\TestApplication.Shared\Controls\PortablePopup.cs">
-      <Link>Controls\PortablePopup.cs</Link>
+    <Compile Include="Controls\PortablePopup.cs">
+      
     </Compile>
-    <Compile Include="..\TestApplication.Shared\Controls\StringToBrushConverter.cs">
-      <Link>Controls\StringToBrushConverter.cs</Link>
+    <Compile Include="Controls\StringToBrushConverter.cs">
+      
     </Compile>
-    <Compile Include="..\TestApplication.Shared\Controls\StringToDataTemplateConverter.cs">
-      <Link>Controls\StringToDataTemplateConverter.cs</Link>
+    <Compile Include="Controls\StringToDataTemplateConverter.cs">
+      
     </Compile>
-    <Compile Include="..\TestApplication.Shared\ViewModel\TestClass.cs">
-      <Link>ViewModel\TestClass.cs</Link>
+    <Compile Include="ViewModel\TestClass.cs">
+      
     </Compile>
-    <Compile Include="..\TestApplication.Shared\ViewModel\TestPageViewModel.cs">
-      <Link>ViewModel\TestPageViewModel.cs</Link>
+    <Compile Include="ViewModel\TestPageViewModel.cs">
+      
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
@@ -132,8 +132,8 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Resource Include="..\TestApplication.Shared\Shared\Fonts\seguisym.ttf">
-      <Link>Shared\Fonts\seguisym.ttf</Link>
+    <Resource Include="Shared\Fonts\seguisym.ttf">
+      
     </Resource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -168,12 +168,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="..\TestApplication.Shared\Shared\Images\torsten.png">
-      <Link>Shared\Images\torsten.png</Link>
+    <Resource Include="Shared\Images\torsten.png">
+      
     </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <Import Project="$(SolutionDir)\XAMLReplace.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
