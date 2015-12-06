@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>..\MainKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
@@ -52,121 +52,82 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChartControls\ChartArea.cs">
-      
     </Compile>
     <Compile Include="ChartControls\ChartLegendItem.cs">
-      
     </Compile>
     <Compile Include="ChartControls\ChartSeries.cs">
-      
     </Compile>
     <Compile Include="ChartControls\ChartTitle.cs">
-      
     </Compile>
     <Compile Include="ChartControls\Legend.cs">
-      
     </Compile>
     <Compile Include="ChartControls\PiePieceLabel.cs">
-      
     </Compile>
     <Compile Include="ChartControls\PlotterArea.cs">
-      
     </Compile>
     <Compile Include="ChartControls\ResourceDictionaryCollection.cs">
-      
     </Compile>
     <Compile Include="Controls\AutoSizeTextBlock.cs">
-      
     </Compile>
     <Compile Include="Controls\ColumnSeriesPanel.cs">
-      
     </Compile>
     <Compile Include="Controls\CustomWrapPanel.cs">
-      
     </Compile>
     <Compile Include="Controls\EvenlyDistributedColumnsGrid.cs">
-      
     </Compile>
     <Compile Include="Controls\EvenlyDistributedRowGrid.cs">
-      
     </Compile>
     <Compile Include="Controls\FadingListView.cs">
-      
     </Compile>
     <Compile Include="Controls\MinimalWidthTextBlock.cs">
-      
     </Compile>
     <Compile Include="Controls\RowSeriesPanel.cs">
-      
     </Compile>
     <Compile Include="Controls\StackedColumnsPanel.cs">
-      
     </Compile>
     <Compile Include="Controls\UniformGridPanel.cs">
-      
     </Compile>
     <Compile Include="Converters\BooleanToVisibilityConverter.cs">
-      
     </Compile>
     <Compile Include="Converters\DoubleToGridLengthPercent.cs">
-      
     </Compile>
     <Compile Include="Core\BarChart\BarPiece.cs">
-      
     </Compile>
     <Compile Include="Core\BarChart\ClusteredBarChart.cs">
-      
     </Compile>
     <Compile Include="Core\BarChart\StackedBar100Chart.cs">
-      
     </Compile>
     <Compile Include="Core\BarChart\StackedBarChart.cs">
-      
     </Compile>
     <Compile Include="Core\ChartBase.cs">
-      
     </Compile>
     <Compile Include="Core\ChartSeriesViewModel.cs">
-      
     </Compile>
     <Compile Include="Core\ColumnChart\ClusteredColumnChart.cs">
-      
     </Compile>
     <Compile Include="Core\ColumnChart\ColumnPiece.cs">
-      
     </Compile>
     <Compile Include="Core\ColumnChart\StackedColumn100Chart.cs">
-      
     </Compile>
     <Compile Include="Core\ColumnChart\StackedColumnChart.cs">
-      
     </Compile>
     <Compile Include="Core\DataPoint.cs">
-      
     </Compile>
     <Compile Include="Core\DataPointGroup.cs">
-      
     </Compile>
     <Compile Include="Core\Doughnut\DoughnutChart.cs">
-      
     </Compile>
     <Compile Include="Core\Extensions.cs">
-      
     </Compile>
     <Compile Include="Core\GaugeChart\RadialGaugeChart.cs">
-      
     </Compile>
     <Compile Include="Core\GaugeChart\RadialGaugePiece.cs">
-      
     </Compile>
     <Compile Include="Core\PieceBase.cs">
-      
     </Compile>
     <Compile Include="Core\PieChart\PieChart.cs">
-      
     </Compile>
     <Compile Include="Core\PieChart\PiePiece.cs">
-      
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -177,5 +138,4 @@
     </Page>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  
 </Project>
