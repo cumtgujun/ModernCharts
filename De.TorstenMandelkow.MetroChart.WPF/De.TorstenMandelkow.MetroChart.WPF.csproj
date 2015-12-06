@@ -51,122 +51,122 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\ChartArea.cs">
-      <Link>ChartControls\ChartArea.cs</Link>
+    <Compile Include="ChartControls\ChartArea.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\ChartLegendItem.cs">
-      <Link>ChartControls\ChartLegendItem.cs</Link>
+    <Compile Include="ChartControls\ChartLegendItem.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\ChartSeries.cs">
-      <Link>ChartControls\ChartSeries.cs</Link>
+    <Compile Include="ChartControls\ChartSeries.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\ChartTitle.cs">
-      <Link>ChartControls\ChartTitle.cs</Link>
+    <Compile Include="ChartControls\ChartTitle.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\Legend.cs">
-      <Link>ChartControls\Legend.cs</Link>
+    <Compile Include="ChartControls\Legend.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\PiePieceLabel.cs">
-      <Link>ChartControls\PiePieceLabel.cs</Link>
+    <Compile Include="ChartControls\PiePieceLabel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\PlotterArea.cs">
-      <Link>ChartControls\PlotterArea.cs</Link>
+    <Compile Include="ChartControls\PlotterArea.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\ChartControls\ResourceDictionaryCollection.cs">
-      <Link>ChartControls\ResourceDictionaryCollection.cs</Link>
+    <Compile Include="ChartControls\ResourceDictionaryCollection.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\AutoSizeTextBlock.cs">
-      <Link>Controls\AutoSizeTextBlock.cs</Link>
+    <Compile Include="Controls\AutoSizeTextBlock.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\ColumnSeriesPanel.cs">
-      <Link>Controls\ColumnSeriesPanel.cs</Link>
+    <Compile Include="Controls\ColumnSeriesPanel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\CustomWrapPanel.cs">
-      <Link>Controls\CustomWrapPanel.cs</Link>
+    <Compile Include="Controls\CustomWrapPanel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\EvenlyDistributedColumnsGrid.cs">
-      <Link>Controls\EvenlyDistributedColumnsGrid.cs</Link>
+    <Compile Include="Controls\EvenlyDistributedColumnsGrid.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\EvenlyDistributedRowGrid.cs">
-      <Link>Controls\EvenlyDistributedRowGrid.cs</Link>
+    <Compile Include="Controls\EvenlyDistributedRowGrid.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\FadingListView.cs">
-      <Link>Controls\FadingListView.cs</Link>
+    <Compile Include="Controls\FadingListView.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\MinimalWidthTextBlock.cs">
-      <Link>Controls\MinimalWidthTextBlock.cs</Link>
+    <Compile Include="Controls\MinimalWidthTextBlock.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\RowSeriesPanel.cs">
-      <Link>Controls\RowSeriesPanel.cs</Link>
+    <Compile Include="Controls\RowSeriesPanel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\StackedColumnsPanel.cs">
-      <Link>Controls\StackedColumnsPanel.cs</Link>
+    <Compile Include="Controls\StackedColumnsPanel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Controls\UniformGridPanel.cs">
-      <Link>Controls\UniformGridPanel.cs</Link>
+    <Compile Include="Controls\UniformGridPanel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Converters\BooleanToVisibilityConverter.cs">
-      <Link>Converters\BooleanToVisibilityConverter.cs</Link>
+    <Compile Include="Converters\BooleanToVisibilityConverter.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Converters\DoubleToGridLengthPercent.cs">
-      <Link>Converters\DoubleToGridLengthPercent.cs</Link>
+    <Compile Include="Converters\DoubleToGridLengthPercent.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\BarChart\BarPiece.cs">
-      <Link>Core\BarChart\BarPiece.cs</Link>
+    <Compile Include="Core\BarChart\BarPiece.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\BarChart\ClusteredBarChart.cs">
-      <Link>Core\BarChart\ClusteredBarChart.cs</Link>
+    <Compile Include="Core\BarChart\ClusteredBarChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\BarChart\StackedBar100Chart.cs">
-      <Link>Core\BarChart\StackedBar100Chart.cs</Link>
+    <Compile Include="Core\BarChart\StackedBar100Chart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\BarChart\StackedBarChart.cs">
-      <Link>Core\BarChart\StackedBarChart.cs</Link>
+    <Compile Include="Core\BarChart\StackedBarChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\ChartBase.cs">
-      <Link>Core\ChartBase.cs</Link>
+    <Compile Include="Core\ChartBase.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\ChartSeriesViewModel.cs">
-      <Link>Core\ChartSeriesViewModel.cs</Link>
+    <Compile Include="Core\ChartSeriesViewModel.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\ColumnChart\ClusteredColumnChart.cs">
-      <Link>Core\ColumnChart\ClusteredColumnChart.cs</Link>
+    <Compile Include="Core\ColumnChart\ClusteredColumnChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\ColumnChart\ColumnPiece.cs">
-      <Link>Core\ColumnChart\ColumnPiece.cs</Link>
+    <Compile Include="Core\ColumnChart\ColumnPiece.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\ColumnChart\StackedColumn100Chart.cs">
-      <Link>Core\ColumnChart\StackedColumn100Chart.cs</Link>
+    <Compile Include="Core\ColumnChart\StackedColumn100Chart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\ColumnChart\StackedColumnChart.cs">
-      <Link>Core\ColumnChart\StackedColumnChart.cs</Link>
+    <Compile Include="Core\ColumnChart\StackedColumnChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\DataPoint.cs">
-      <Link>Core\DataPoint.cs</Link>
+    <Compile Include="Core\DataPoint.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\DataPointGroup.cs">
-      <Link>Core\DataPointGroup.cs</Link>
+    <Compile Include="Core\DataPointGroup.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\Doughnut\DoughnutChart.cs">
-      <Link>Core\Doughnut\DoughnutChart.cs</Link>
+    <Compile Include="Core\Doughnut\DoughnutChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\Extensions.cs">
-      <Link>Core\Extensions.cs</Link>
+    <Compile Include="Core\Extensions.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\GaugeChart\RadialGaugeChart.cs">
-      <Link>Core\GaugeChart\RadialGaugeChart.cs</Link>
+    <Compile Include="Core\GaugeChart\RadialGaugeChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\GaugeChart\RadialGaugePiece.cs">
-      <Link>Core\GaugeChart\RadialGaugePiece.cs</Link>
+    <Compile Include="Core\GaugeChart\RadialGaugePiece.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\PieceBase.cs">
-      <Link>Core\PieceBase.cs</Link>
+    <Compile Include="Core\PieceBase.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\PieChart\PieChart.cs">
-      <Link>Core\PieChart\PieChart.cs</Link>
+    <Compile Include="Core\PieChart\PieChart.cs">
+      
     </Compile>
-    <Compile Include="..\De.TorstenMandelkow.MetroChart\Core\PieChart\PiePiece.cs">
-      <Link>Core\PieChart\PiePiece.cs</Link>
+    <Compile Include="Core\PieChart\PiePiece.cs">
+      
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
